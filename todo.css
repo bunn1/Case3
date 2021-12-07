@@ -98,7 +98,6 @@ form {
   border: 2px solid;
 }
 
-
 #imgAdd {
   flex: 1;
   background: white;
@@ -140,7 +139,6 @@ li>button {
   border-radius: 50%;
 
 }
-
 
 li.highlight {
   text-decoration: line-through;
